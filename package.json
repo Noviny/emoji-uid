@@ -1,0 +1,9 @@
+{
+  "name": "emoji-uid",
+  "version": "1.0.0",
+  "description": "Get 🔥 UIDs to help make things 💯",
+  "main": "💖💙💜.js",
+  "author": "Ben Conolly",
+  "license": "MIT",
+  "repository": "https://github.com/Noviny/emoji-uid"
+}
