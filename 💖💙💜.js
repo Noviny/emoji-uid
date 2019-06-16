@@ -18,6 +18,4 @@ const getEmojis = (number = 3) => {
   return id;
 };
 
-console.log(getEmojis());
-
 module.exports = getEmojis;

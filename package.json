@@ -5,5 +5,8 @@
   "main": "💖💙💜.js",
   "author": "Ben Conolly",
   "license": "MIT",
-  "repository": "https://github.com/Noviny/emoji-uid"
+  "repository": "https://github.com/Noviny/emoji-uid",
+  "devDependencies": {
+    "@changesets/cli": "^1.2.0"
+  }
 }
