@@ -1,1 +1,0 @@
-Fix docs, remove console.log
