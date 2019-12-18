@@ -1,20 +1,22 @@
 # 💯💜🎉
 
-This package generates unique identifiers, but the identifiers are emoji
+> This package is probably not a safe way to generate IDs in production
+
+This package generates unique identifiers, but the identifiers are a string of emoji.
 
 ```javascript
-import eid from 'emoji-uid'
+import getId from 'emoji-uid'
 
-const id = eid();
+const id = getId();
 // id of 💯💜🎉 or similar
 ```
 
 If you want to specify the ID length, you can provide that as an argument:
 
 ```javascript
-import eid from 'emoji-uid'
+import getId from 'emoji-uid'
 
-const id = eid(5);
+const id = getId(5);
 // id of 💯💜🎉🏳️‍🌈🔑 or similar
 ```
 
